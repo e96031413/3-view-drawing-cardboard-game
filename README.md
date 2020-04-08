@@ -15,3 +15,13 @@ Step 4: Execute the program with the following command
 ```python random_image_open.py```
 
 You could see that 2 images are shown up in your PC.
+
+### Note:
+
+If any filename contains "-2" then it would be right side view.
+
+EX:
+
+1.jpg: Front view
+
+1-2.jpg: Right view
