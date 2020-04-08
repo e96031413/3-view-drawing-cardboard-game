@@ -11,4 +11,7 @@ Step 3: Install Pillow with the following command
 ```pip install Pillow```
 
 Step 4: Execute the program with the following command
+
 ```python random_image_open.py```
+
+You could see that 2 images are shown up in your PC.
